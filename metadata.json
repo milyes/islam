@@ -1,5 +1,5 @@
 {
   "name": "Quran Player: Sheikh Shuraim",
   "description": "Listen to the Holy Quran recited by Sheikh Saud Al-Shuraim.",
-  "requestFramePermissions": []
+  "requestFramePermissions": ["microphone"]
 }
